@@ -1,0 +1,85 @@
+
+/*NAV*/
+
+.logo { 
+}
+
+.nav-content {}
+
+.nav-text {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    /* identical to box height, or 200% */
+    color: #2F281E;
+}
+
+.nav-text-2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 35px;
+    /* or 219% */
+    color: #544837;
+
+} /* How to make a better solution fort text*/
+
+h1 {
+    width: 518px;
+    height: 108px;
+    left: 137px;
+    top: 249px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 54px;
+    /* or 123% */
+    color: #2F281E;
+}
+
+h2{
+    height: 108px;
+    width: 539px;
+    font-family: 'Poppins', sans-serif;  
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #2F281E;
+
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;     
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
